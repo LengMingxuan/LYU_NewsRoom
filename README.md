@@ -29,6 +29,6 @@ new_inf.text      #新闻内容
 
 
 ### 鸣谢
-感谢[@AkvicorEdwards](https://github.com/AkvicorEdwards)帮改代码[TDUI_last.py](https://github.com/LengMingxuan/LYU_NewsRoom/blob/master/TDUI_last.py)代码
+感谢[@AkvicorEdwards](https://github.com/AkvicorEdwards)帮改[TDUI_last.py](https://github.com/LengMingxuan/LYU_NewsRoom/blob/master/TDUI_last.py)代码
 
  
