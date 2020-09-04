@@ -29,8 +29,6 @@ for i in lst.find_all('a', href=True):
     # print(i['href'])
 #     print(i['href'])
 
-#
-#
 for item in range(1, 21):
     class_mark = 'column-news-item item-'+str(item)+' clearfix'
     #print(class_mark)
