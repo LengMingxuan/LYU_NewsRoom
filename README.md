@@ -1,6 +1,9 @@
 # LYU_NewsRoom
 Python爬取临沂大学-临大要闻，TDUI，分别代表标题、日期、链接、内容
 
+![](https://img.shields.io/badge/Developer-Mondayice%2FTianming-blue)  ![](https://img.shields.io/badge/Language-Python-brightgreen)
+
+
 
 
 
