@@ -8,6 +8,7 @@ Python爬取临沂大学-临大要闻，TDUI，分别代表标题、日期、链
 
 
 ### 接口
+#### 新闻元素
 
 ```python
 
@@ -16,6 +17,13 @@ news_date_text    #新闻发布时间
 news_url          #新闻链接
 new_inf.text      #新闻内容
 ```
+
+#### 页码
+```python
+Max_Pagenumber      #最大页码
+Now_Pagenumber      #当前页码
+``
+
 
 ### 输出实例：
 
