@@ -22,7 +22,7 @@ new_inf.text      #新闻内容
 ```python
 Max_Pagenumber      #最大页码
 Now_Pagenumber      #当前页码
-``
+```
 
 
 ### 输出实例：
